@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAbJN+VIWND11J9hPxQKDmIZIVuXifJ0qIELA4N8CjOI+dg7anTGzDix/DCSyN2ljzoivsRyLYXsGtL6lrB1xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexeiKelerPc\\RiderProjects\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\angourimath\\1.4.0-preview.2\\angourimath.1.4.0-preview.2.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\generictensor\\1.0.4\\generictensor.1.0.4.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\honksharp\\1.0.3\\honksharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\petero.numbers\\1.8.0\\petero.numbers.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
