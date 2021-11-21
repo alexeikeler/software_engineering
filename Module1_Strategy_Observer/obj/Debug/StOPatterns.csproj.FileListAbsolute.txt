@@ -1,0 +1,12 @@
+/home/alex/RiderProjects/StOPatterns/bin/Debug/StOPatterns.exe
+/home/alex/RiderProjects/StOPatterns/bin/Debug/StOPatterns.pdb
+/home/alex/RiderProjects/StOPatterns/obj/Debug/StOPatterns.csprojAssemblyReference.cache
+/home/alex/RiderProjects/StOPatterns/obj/Debug/StOPatterns.csproj.CoreCompileInputs.cache
+/home/alex/RiderProjects/StOPatterns/obj/Debug/StOPatterns.exe
+/home/alex/RiderProjects/StOPatterns/obj/Debug/StOPatterns.pdb
+/home/alexpc/patterns/StOPatterns/bin/Debug/StOPatterns.exe
+/home/alexpc/patterns/StOPatterns/bin/Debug/StOPatterns.pdb
+/home/alexpc/patterns/StOPatterns/obj/Debug/StOPatterns.csprojAssemblyReference.cache
+/home/alexpc/patterns/StOPatterns/obj/Debug/StOPatterns.csproj.CoreCompileInputs.cache
+/home/alexpc/patterns/StOPatterns/obj/Debug/StOPatterns.exe
+/home/alexpc/patterns/StOPatterns/obj/Debug/StOPatterns.pdb

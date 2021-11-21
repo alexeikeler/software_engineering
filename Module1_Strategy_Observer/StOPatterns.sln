@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StOPatterns", "StOPatterns.csproj", "{100FB8FA-DE02-4854-8748-B76FAA2B1F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100FB8FA-DE02-4854-8748-B76FAA2B1F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100FB8FA-DE02-4854-8748-B76FAA2B1F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100FB8FA-DE02-4854-8748-B76FAA2B1F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100FB8FA-DE02-4854-8748-B76FAA2B1F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
