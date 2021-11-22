@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJ0daKRQ5rel44Iqb5hYdCs4WSS/OGpajT7J9OE9muLWoR9Bk77NeJva0y+FgNnzRlk7oI7J2dGd/ddreQU2+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexeiKelerPc\\RiderProjects\\FM\\FM\\FM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\angourimath\\1.4.0-preview.2\\angourimath.1.4.0-preview.2.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\generictensor\\1.0.4\\generictensor.1.0.4.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\honksharp\\1.0.3\\honksharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\AlexeiKelerPc\\.nuget\\packages\\petero.numbers\\1.8.0\\petero.numbers.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
